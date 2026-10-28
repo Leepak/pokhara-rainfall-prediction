@@ -1,0 +1,2 @@
+model,train_start,train_end,test_start,test_end,train_rows,test_rows,accuracy,balanced_accuracy,precision_rain,recall_rain,f1_rain
+Logistic Regression,2010-01-01,2022-10-17,2022-10-19,2025-12-30,4673,1169,0.8545765611633875,0.8529880418535127,0.822265625,0.842,0.8320158102766798

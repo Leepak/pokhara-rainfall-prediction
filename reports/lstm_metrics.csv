@@ -1,0 +1,2 @@
+model,sequence_length,accuracy,balanced_accuracy,rain_precision,rain_recall,rain_f1
+LSTM,30,0.8494439692044482,0.8469880418535127,0.8201581027667985,0.83,0.8250497017892644

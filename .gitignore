@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment and test artifacts
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Archived model artifact (not used by the active workflow)
+models/*.keras
